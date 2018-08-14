@@ -9,7 +9,7 @@ require_once('src\php\shorter_cr.php');
         <meta charset="utf-8">
 
 <meta charset="utf-8">
-<script type="text/javascript" src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js?ver=1.6.4'></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script type="text/javascript" src='src/js/ajax.js'></script>
 <script type="text/javascript" src='https://developers.google.com/speed/libraries/#jquery'></script>
 <title>URL Shortener</title>  
