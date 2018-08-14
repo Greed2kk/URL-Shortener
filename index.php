@@ -25,7 +25,9 @@ require_once('src\php\shorter_cr.php');
                     <input type="text" name="url_f" placeholder="Enter the link here">
                 </div>
             </form>   
+         <div class="link-form__button">
             <button class="link-form__button__s" name="sendR" onclick="send()">Check!</button>
+         </div>
             <div id="result"> </div>
                
         </div>
@@ -33,7 +35,7 @@ require_once('src\php\shorter_cr.php');
         <div class="link-form">
             <form action="#" method="POST" id="url-form1" >
                 <div class="link-form__input-l">
-            <input type="text" name="link"   <?php            if ((isset($link)) && (isset($link_fake))) {
+            <input type="text" name="link"  placeholder="Enter the link here" <?php            if ((isset($link)) && (isset($link_fake))) {
                 echo 'value="' . $link . '"';
             }
             ?> />
@@ -54,8 +56,8 @@ require_once('src\php\shorter_cr.php');
         <div class="link-form">
             <form action="#" method="post" id="url_form_add">
                 <div class="link-form__input-l">
-                    <input type="text" name="My_url" placeholder="real_url_here">
-                    <input type="text" name="Fake_url" placeholder="pref_short_url_here">
+                    <input type="text" name="My_url" placeholder="url here">
+                    <input type="text" name="Fake_url" placeholder="short url">
                 </div>
             </form>
             <div class="link-form__button">
