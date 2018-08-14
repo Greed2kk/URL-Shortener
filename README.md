@@ -3,12 +3,12 @@
 https://draiver781.000webhostapp.com/
 ###  Instructions
 
-This task should be implemented in either PHP, Ruby, Python, or Javascript. 
-You can use frameworks, ORMs, template’s engines, but not ready solutions. 
-Code should be provided as a public GitHub repo. 
-README file with detailed information is required. 
-Host the application somewhere and share a working link to it.
-Use Bootstrap for styles.
+- This task should be implemented in either PHP, Ruby, Python, or Javascript. 
+- You can use frameworks, ORMs, template’s engines, but not ready solutions. 
+- Code should be provided as a public GitHub repo. 
+- README file with detailed information is required. 
+- Host the application somewhere and share a working link to it.
+- Use Bootstrap for styles.
 
 
 ### Task
