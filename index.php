@@ -18,7 +18,7 @@ require_once('src\php\shorter_cr.php');
 <main>
     
     <div id="container">
-        <h2 class="display-4">Paste the URL </h2>
+        <h2 class="display-4 text-center">Paste the URL </h2>
         <div class="link-form">
             <form action="#" method="post" id="url-form">
                 <div class="link-form__input-l">
