@@ -1,7 +1,7 @@
 
-### URL Shortener
+### h1 URL Shortener
 =====================
-#### Instructions
+#### h1 Instructions
 =====================
 This task should be implemented in either PHP, Ruby, Python, or Javascript. 
 You can use frameworks, ORMs, template’s engines, but not ready solutions. 
