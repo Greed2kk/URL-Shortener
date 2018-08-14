@@ -6,9 +6,6 @@ require_once('src\php\shorter_cr.php');
 <!DOCTYPE html>
 <html>
 <head>
-        <meta charset="utf-8">
-
-<meta charset="utf-8">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script type="text/javascript" src='src/js/ajax.js'></script>
 <script type="text/javascript" src='https://developers.google.com/speed/libraries/#jquery'></script>
@@ -21,7 +18,7 @@ require_once('src\php\shorter_cr.php');
 <main>
     
     <div id="container">
-        <h2 align="center">Paste the URL </h2>
+        <h2 class="display-4">Paste the URL </h2>
         <div class="link-form">
             <form action="#" method="post" id="url-form">
                 <div class="link-form__input-l">
