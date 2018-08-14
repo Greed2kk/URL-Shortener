@@ -1,6 +1,6 @@
 
 ###   URL Shortener
-https://draiver781.000webhostapp.com/
+https://draiver781.000webhostapp.com
 ###  Instructions
 
 - This task should be implemented in either PHP, Ruby, Python, or Javascript. 
